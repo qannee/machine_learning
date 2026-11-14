@@ -1,0 +1,4 @@
+,RMSLE train,RMSLE valid,Kaggle public score
+XGBoost,0.07719,0.14377,0.1539
+Linear Regression,0.11534,0.15445,0.1671
+Decision Tree,0.00166,0.22718,0.2247
