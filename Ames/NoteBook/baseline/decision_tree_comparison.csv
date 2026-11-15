@@ -1,0 +1,4 @@
+,RMSLE,RMSE,MAE,R2,Kaggle public score
+"Baseline (processed, log1p, mặc định)",0.2269,43622.0,29929.0,0.6555,0.2247
+"Nguyên Run 1 (feature sạch, mặc định)",0.2125,40259.0,27923.0,0.7066,
+"Nguyên Run 3 (feature sạch, max_depth=6)",0.2081,38299.0,26930.0,0.7345,
