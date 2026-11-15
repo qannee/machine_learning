@@ -1,0 +1,5 @@
+﻿,RMSLE train,RMSE valid (seed 42),RMSLE valid (seed 42),Kaggle,"RMSE valid, TB 5 seed","RMSLE valid, TB 5 seed",RMSLE CV
+XGB của Thuận (điểm ghi lại),0.07719,24823.8,0.14377,0.1539,,,
+Chạy lại XGB của Thuận (bộ Thuận + gốc),,24470.51189,0.14285,,24732.47605,0.14502,0.13762
+Bản log1p đã có (bộ sạch + log1p),,19966.4759,0.11255,,19434.02175,0.11153,0.11666
+BẢN NÀY (bộ sạch + target gốc),0.05679,19866.703,0.11457,,20111.18033,0.1139,0.11831

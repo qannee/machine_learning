@@ -1,0 +1,5 @@
+﻿,RMSE valid (seed 42),Kaggle,"RMSE valid, TB 5 seed",RMSLE valid (seed 42),RMSLE CV
+RF của An (điểm ghi lại),27713.0,0.16285,,,
+Chạy lại RF của An (bộ An + log1p),27082.60761,,27337.85343,0.15598,0.15255
+Bản log1p đã có (bộ sạch + log1p),24046.88779,,24399.40653,0.14264,0.14056
+BẢN NÀY (bộ sạch + target gốc),24506.83379,,24211.82741,0.14758,0.14113

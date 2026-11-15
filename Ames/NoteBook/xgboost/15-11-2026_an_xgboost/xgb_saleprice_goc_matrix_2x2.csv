@@ -1,0 +1,5 @@
+﻿bộ feature,target,RMSE,MAE,R2,RMSLE
+Bộ Thuận (35 feature),SalePrice gốc,24470.51189,16522.03125,0.89159,0.14285
+Bộ Thuận (35 feature),log1p(SalePrice),23388.76585,16575.97656,0.90097,0.13423
+Bộ sạch (80 feature),SalePrice gốc,19866.703,14389.02246,0.92855,0.11457
+Bộ sạch (80 feature),log1p(SalePrice),19966.4759,14392.29102,0.92783,0.11255
